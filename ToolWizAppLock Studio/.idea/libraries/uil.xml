@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/appLock/libs/uil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
